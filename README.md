@@ -38,7 +38,10 @@ Podemos plantear las probabilidades con coeficientes reales y/o complejos
 
 Empezaremos con la explicación de cuando solo encontramos coeficientes reales, tendremos que los nodos 1 y 2 (intermedios) interactuaran como las rendijas del sistema y los nodos del 3 al 7 (finales) estaran sometidos a la misma condición de que se apuntaran a ellos mismos y la probabilidad sera de 1.
 
---> grFICO DE GRAFO <--
+![alt text](image-8.png)
+
+Matriz de adyacencia
+
 ![alt text](image-1.png)
 
 Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
@@ -52,8 +55,7 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 ### Coeficientes complejos
 
 Tendremos la misma explicación que cuando manejamos coeficientes reales, pero con los complejos podremos hacernos una mejor idea de las probabilidades que nos da el sistema, el modelo que obtendremos será el siguiente:
-
---> grafico de arbol de probabilidades <--
+![alt text](image-9.png)
 
 Matriz de adyacencia
 
@@ -87,6 +89,10 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 4. Lo que realizamos anteriormente lo pegaremos en una de las esquinas de la caja que fue forrada con cartulina negra.
 5. Ubicamos el láser sobre la caja de la manera que apunte a la doble rendija para reflejar el efecto en una superficie.
 
+
+### Resultado
+
+![alt text](image-0.jpeg)
 
 
 
