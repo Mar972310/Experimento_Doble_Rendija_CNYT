@@ -55,10 +55,17 @@ Tendremos la misma explicación que cuando manejamos coeficientes reales, pero c
 
 --> grafico de arbol de probabilidades <--
 
+Matriz de adyacencia
 
+![alt text](image-7.png)
 
+Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
 
+![alt text](image-6.png)
 
+Después de dar dos clicks es donde notaremos que se comienza a generar interferencia, ya que los fotones de luz se dispersan en varios blancos u objetivos del experimento. Esto se debe a la física cuántica y la teoría de los multiversos (como parte de la simulación).
+
+![alt text](image-5.png)
 
 
 
