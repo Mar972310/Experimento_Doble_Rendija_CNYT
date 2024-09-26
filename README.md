@@ -41,8 +41,202 @@ Empezaremos con la explicación de cuando solo encontramos coeficientes reales, 
 
 Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
 
+$$ MX = X' = 
+    \begin{bmatrix} \\
+                    0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & 0 & 1 & 0 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 \\
+                    \\
+                    0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 1 & 0 \\
+                    \\
+                    0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 0 & 1 \\
+                    \\
+    \end{bmatrix}·
 
+    \begin{bmatrix} \\
+                    1 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\ 
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                   
+    \end{bmatrix}
+    =
+    \begin{bmatrix} \\
+                    0 \\
+                    \\
+                    \frac{1}{2}\\
+                    \\
+                    \frac{1}{2}\\
+                    \\
+                    0 \\ 
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+    \end{bmatrix}$$
 
+Después de dar dos clicks es donde notaremos que se comienza a generar interferencia, ya que los fotones de luz se dispersan en varios blancos u objetivos del experimento. Esto se debe a la física cuántica y la teoría de los multiversos (como parte de la simulación).
+
+$$ MX = X' = 
+    \begin{bmatrix} \\
+                    0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & 0 & 1 & 0 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 & 0 \\
+                    \\
+                    0 & \frac{1}{3} & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 \\
+                    \\
+                    0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 1 & 0 \\
+                    \\
+                    0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 0 & 1 \\
+                    \\
+    \end{bmatrix}·
+
+    \begin{bmatrix} \\
+                    1 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\ 
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                   
+    \end{bmatrix}
+    =
+    \begin{bmatrix} \\
+                    0 \\
+                    \\
+                    \frac{1}{2}\\
+                    \\
+                    \frac{1}{2}\\
+                    \\
+                    0 \\ 
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+                    0 \\
+                    \\
+    \end{bmatrix}$$
+
+$$ MMX = X'' = 
+\begin{bmatrix} \\
+                0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & 0 & 1 & 0 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 \\
+                \\
+                0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 1 & 0 \\
+                \\
+                0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 0 & 1 \\
+                \\
+\end{bmatrix} *
+\begin{bmatrix} \\
+                0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                \frac{1}{2} & 0 & 0 & 0 & 0 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & 0 & 1 & 0 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 & 0 \\
+                \\
+                0 & \frac{1}{3} & \frac{1}{3} & 0 & 0 & 1 & 0 & 0 \\
+                \\
+                0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 1 & 0 \\
+                \\
+                0 & 0 & \frac{1}{3} & 0 & 0 & 0 & 0 & 1 \\
+                \\
+\end{bmatrix}
+·
+\begin{bmatrix} \\
+                1 \\
+                \\
+                0 \\
+                \\
+                0 \\
+                \\
+                0 \\ 
+                \\
+                0 \\
+                \\
+                0 \\
+                \\
+                0 \\
+                \\
+                0 \\
+                \\
+                
+\end{bmatrix}
+=
+\begin{bmatrix} \\
+                0 \\
+                \\
+                0\\
+                \\
+                0\\
+                \\
+                \frac{1}{6}\\ 
+                \\
+                \frac{1}{6} \\
+                \\
+                \frac{1}{3} \\
+                \\
+                \frac{1}{6} \\
+                \\
+                \frac{1}{6} \\
+                \\
+\end{bmatrix}$$
 
 
 
