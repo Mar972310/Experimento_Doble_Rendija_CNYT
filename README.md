@@ -30,6 +30,16 @@ Desde esta nueva explicación podremos incluir a la física cuántica y su teori
 
 Esta teoría plantea la posibilidad de hablar sobre el multiverso, donde las partículas en nuestro universo tienen versiones alternativas de sí mismas en otros universos, y estas versiones pueden interactuar entre sí, afectando los resultados observados en nuestro universo.
 
+## Explicación teórica 
+
+Podemos plantear las probabilidades con coeficientes reales y/o complejos
+
+Empezaremos con la explicación de cuando solo encontramos coeficientes reales, tendremos que los nodos 1 y 2 (intermedios) interactuaran como las rendijas del sistema y los nodos del 3 al 7 (finales) estaran sometidos a la misma condición de que se apuntaran a ellos mismos y la probabilidad sera de 1.
+
+--> grFICO DE GRAFO <--
+--> MATRIX DE ADYACENCIA <--
+
+
 
 
 
