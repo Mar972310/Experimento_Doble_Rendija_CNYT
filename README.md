@@ -68,6 +68,28 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 ![alt text](image-5.png)
 
 
+##Elaboración
+
+### Materiales :
+- Cartón paja
+- Cartulina negra
+- Laser
+- Bisturi
+- Papel aluminio
+- Cinta transparente
+- Caja
+
+###Procedimiento
+
+1. Tomaremos un cuadrado de papel aluminio de unos 7 cm aproximadamente de lado y le haremos dos cortes con el bisturi lo mas juntos posibles.
+2. Cortaremos un cuadrado de carton paja de unos 12 cm aproximadamente y a este le haremos en el centro un hueco de unos 6 cm de cada lado.
+3. Pegamos el cuadrado de aluminio al de carton paja con cinta.
+4. Lo que realizamos anteriormente lo pegaremos en una de las esquinas de la caja que fue forrada con cartulina negra.
+5. Ubicamos el láser sobre la caja de la manera que apunte a la doble rendija para reflejar el efecto en una superficie.
+
+
+
+
 
 
 
