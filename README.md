@@ -79,7 +79,7 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 - Cinta transparente
 - Caja
 
-###Procedimiento
+### Procedimiento:
 
 1. Tomaremos un cuadrado de papel aluminio de unos 7 cm aproximadamente de lado y le haremos dos cortes con el bisturi lo mas juntos posibles.
 2. Cortaremos un cuadrado de carton paja de unos 12 cm aproximadamente y a este le haremos en el centro un hueco de unos 6 cm de cada lado.
