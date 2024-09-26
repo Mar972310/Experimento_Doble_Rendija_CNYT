@@ -34,6 +34,8 @@ Esta teoría plantea la posibilidad de hablar sobre el multiverso, donde las par
 
 Podemos plantear las probabilidades con coeficientes reales y/o complejos
 
+### Coeficientes reales
+
 Empezaremos con la explicación de cuando solo encontramos coeficientes reales, tendremos que los nodos 1 y 2 (intermedios) interactuaran como las rendijas del sistema y los nodos del 3 al 7 (finales) estaran sometidos a la misma condición de que se apuntaran a ellos mismos y la probabilidad sera de 1.
 
 --> grFICO DE GRAFO <--
@@ -46,6 +48,14 @@ Para realizar poder calcular las probabilidades de donde estará ubicada la part
 
 Después de dar dos clicks es donde notaremos que se comienza a generar interferencia, ya que los fotones de luz se dispersan en varios blancos u objetivos del experimento. Esto se debe a la física cuántica y la teoría de los multiversos (como parte de la simulación).
 ![alt text](image-2.png)
+
+### Coeficientes complejos
+
+Tendremos la misma explicación que cuando manejamos coeficientes reales, pero con los complejos podremos hacernos una mejor idea de las probabilidades que nos da el sistema, el modelo que obtendremos será el siguiente:
+
+--> grafico de arbol de probabilidades <--
+
+
 
 
 
