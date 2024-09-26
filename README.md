@@ -39,7 +39,7 @@ Empezaremos con la explicación de cuando solo encontramos coeficientes reales, 
 --> grFICO DE GRAFO <--
 --> MATRIX DE ADYACENCIA <--
 
-Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que 
+Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
 
 
 
