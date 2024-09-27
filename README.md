@@ -70,7 +70,7 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 ![alt text](image-5.png)
 
 
-##Elaboración
+## Elaboración
 
 ### Materiales :
 - Cartón paja
