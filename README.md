@@ -102,7 +102,12 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 
 ### Video explicativo:
 
-<video controls src="Resultado.mp4" title="Title"></video>
+<video width="640" height="480" controls>
+        <source src="Resultado.mp4" type="video/mp4">
+        Tu navegador no soporta el video.
+    </video>
+
+
 
 
 ### Resultado
