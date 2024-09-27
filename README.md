@@ -54,32 +54,32 @@ Luego de ejecutar un solo cick tendremos las siguientes probabilidades.
 
 
 Después de dar dos clicks es donde notaremos que se comienza a generar interferencia, ya que los fotones de luz se dispersan en varios blancos u objetivos del experimento. Esto se debe a la física cuántica y la teoría de los multiversos (como parte de la simulación).
-![alt text](image-2.png)
-![alt text](image-13.png)
-![alt text](image-12.png)
-![alt text](image-18.png)
+![alt text](/image/image-2.png)
+![alt text](/image/image-13.png)
+![alt text](/image/image-12.png)
+![alt text](/image/image-18.png)
 
 ### Coeficientes complejos
 
 Tendremos la misma explicación que cuando manejamos coeficientes reales, pero con los complejos podremos hacernos una mejor idea de las probabilidades que nos da el sistema, el modelo que obtendremos será el siguiente:
-![alt text](image-9.png)
+![alt text](/image/image-9.png)
 
 Matriz de adyacencia
 
-![alt text](image-7.png)
+![alt text](/image/image-7.png)
 
 Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
 
-![alt text](image-6.png)
-![alt text](image-19.png)
+![alt text](/image/image-6.png)
+![alt text](/image/image-19.png)
 
 Después de dar dos clicks es donde notaremos que se comienza a generar interferencia, ya que los fotones de luz se dispersan en varios blancos u objetivos del experimento. Esto se debe a la física cuántica y la teoría de los multiversos (como parte de la simulación).
 
-![alt text](image-5.png)
-![alt text](image-15.png)
-![alt text](image-14.png)
-![alt text](image-17.png)
-![alt text](image-16.png)
+![alt text](/image/image-5.png)
+![alt text](/image/image-15.png)
+![alt text](/image/image-14.png)
+![alt text](/image/image-17.png)
+![alt text](/image/image-16.png)
 
 ## Elaboración
 
@@ -108,8 +108,8 @@ https://youtu.be/Dkhu42E3hKk
 
 https://youtu.be/GIZdywsRSMo
 
-![alt text](6318909062045089053.jpg)
-![alt text](image-0.jpeg)
+![alt text](/image/6318909062045089053.jpg)
+![alt text](/image/image-0.jpeg)
 
 
 
