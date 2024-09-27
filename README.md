@@ -112,7 +112,10 @@ https://youtu.be/GIZdywsRSMo
 ![alt text](/image/image-0.jpeg)
 
 
-
+## Autores
+- Juan Felipe Arango
+- Maria Valentina Torres
+- David Espinosa
 
 
 
