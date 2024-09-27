@@ -102,10 +102,7 @@ Después de dar dos clicks es donde notaremos que se comienza a generar interfer
 
 ### Video explicativo:
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Mar972310/Experimento_Doble_Rendija_CNYT.git/Resultado.mp4
-  " type="video/mp4">
-</video>
+<video controls src="Resultado.mp4" title="Title"></video>
 
 
 ### Resultado
