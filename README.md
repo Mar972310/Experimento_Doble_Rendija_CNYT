@@ -37,19 +37,19 @@ Podemos plantear las probabilidades con coeficientes reales y/o complejos
 
 Empezaremos con la explicación de cuando solo encontramos coeficientes reales, tendremos que los nodos 1 y 2 (intermedios) interactuaran como las rendijas del sistema y los nodos del 3 al 7 (finales) estaran sometidos a la misma condición de que se apuntaran a ellos mismos y la probabilidad sera de 1.
 
-![alt text](image-8.png)
+![alt text](/image/image-8.png)
 
 Matriz de adyacencia
 
-![alt text](image-1.png)
+![alt text](/image/image-1.png)
 
 Para realizar poder calcular las probabilidades de donde estará ubicada la particula déspues de N clicks será $M^{NClicks} \cdot x_{0}$, consideremos que el $x_{0} = [1,0,0,0,0,0,0,0]^{T}$
 
 Luego de ejecutar un solo cick tendremos las siguientes probabilidades.
 
-![alt text](image.png)
-![alt text](image-11.png)
-![alt text](image-10.png)
+![alt text](/image/image.png)
+![alt text](/image/image-11.png)
+![alt text](/image/image-10.png)
 
 
 
